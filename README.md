@@ -5,4 +5,4 @@ This a project of twitter sentiment analysis using machine learning(Support Vect
 
 Check out my Medium article ,where I have explained in detail.
 
-https://nandisoham2017.medium.com/twitter-sentiment-analysis-using-machine-learning-approaches-14fba1b8e357
+https://nandisoham2017.medium.com/stock-market-analysis-and-forecasting-using-deep-learning-f75052e81301
