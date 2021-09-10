@@ -16,7 +16,18 @@ The dataset is based on the tweet of Indian Prime Minister Narendra Modi. By usi
 
 "Twitter US Airline Sentiment" Analyze how travelers in February 2015 expressed their feelings on Twitter. Here the number of the tweet is 14,000.
 
-Approaches:
+Approach:
+----
+Here there are 3 type of approach.
+├── **Machine Learning** |-- SVM , Naive Bayes
+
+├── **Deep Learning** |-- LSTM
+
+├── **Transformer** |-- BERT ROBERTA
+
+
+
+
 
 
 
