@@ -20,11 +20,11 @@ Approach:
 ----
 **_Here there are 3 type of approach._**
 
-├── ###Machine Learning## |-- **SVM , Naive Bayes**
+├── ### Machine Learning ### |-- **SVM , Naive Bayes**
 
-├── ###Deep Learning## |-- **LSTM**
+├── ### Deep Learning ### |-- **LSTM**
 
-├── ###Transformer### |-- **BERT ROBERTA**
+├── ### Transformer ### |-- **BERT ROBERTA**
 
 
 
