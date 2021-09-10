@@ -14,7 +14,11 @@ DATASET:
 ----
 The dataset is based on the tweet of Indian Prime Minister Narendra Modi. By using this dataset we will identify the sentiment of common people. Here the number of the tweet is 1,62,981.
 
-"Twitter US Airline Sentiment" Analyze how travelers in February 2015 expressed their feelings on Twitter.
+"Twitter US Airline Sentiment" Analyze how travelers in February 2015 expressed their feelings on Twitter. Here the number of the tweet is 14,000.
+
+Approaches:
+
+
 
 
 
