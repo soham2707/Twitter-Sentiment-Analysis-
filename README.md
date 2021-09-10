@@ -1,6 +1,6 @@
 # Twitter-Sentiment-Analysis-
 
-<p align="left">
+<p align="middle">
     <img src="https://images.unsplash.com/photo-1561210596-383464a42be3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80" width="570" height="670">
   </p>
   
