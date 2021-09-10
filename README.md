@@ -73,6 +73,8 @@ LSTMs also have this chain like structure, but the repeating module has a differ
     <img src="https://www.researchgate.net/profile/Xiaofeng-Yuan-4/publication/331421650/figure/fig2/AS:771405641695233@1560928845927/The-structure-of-the-LSTM-unit.png" width="570" height="470">
   </p>
 
+### NOTE:
+Using GRU it is also possible, but this is not discussed here.
 
 
 
