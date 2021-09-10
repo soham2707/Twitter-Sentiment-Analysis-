@@ -82,7 +82,6 @@ Using Bayes theorem, we can find the probability of A happening, given that B ha
 
 
 
-
 Check out my Medium article ,where I have explained in detail.
 
 https://nandisoham2017.medium.com/twitter-sentiment-analysis-using-machine-learning-approaches-14fba1b8e357
