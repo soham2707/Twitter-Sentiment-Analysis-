@@ -118,6 +118,19 @@ Roberta is not described here.
 Results
 -----
 
+|              Algorithm             |                  Accuracy                  |              Dataset Size         |
+| -----------------------------------| ------------------------------------------ |-----------------------------------|
+|                 SVM                |                   85.47                    |               1,62,981            |
+|             Naive Bayes            |                   74.25                    |               1,62,981            |
+|            LSTM (20 epochs)        |                   83.71                    |                14,000             |
+|           BERT (3 epochs)          |                   97.61                    |               1,62,981            |
+|          ROBERTA (3 epochs)        |                   94.19                    |               1,62,981            |
+
+
+Conclusion:
+----
+
+
 
 
 
