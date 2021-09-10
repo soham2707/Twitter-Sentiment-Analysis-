@@ -90,11 +90,14 @@ We introduce a new language representation model called BERT, which stands for B
 BERT is conceptually simple and empirically powerful. It obtains new state-of-the-art results on eleven natural language processing tasks, including pushing the GLUE score to 80.5% (7.7% point absolute improvement), MultiNLI accuracy to 86.7% (4.6% absolute improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute improvement) and SQuAD v2.0 Test F1 to 83.1 (5.1 point absolute improvement).
 
 <p align="left">
-    <img src="https://storage.ning.com/topology/rest/1.0/file/get/7953359679?profile=original" width="570" height="470">
+    <img src="https://storage.ning.com/topology/rest/1.0/file/get/7953359679?profile=original" width="870" height="470">
   </p>
 
 
 
+<p align="left">
+    <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/67/f199f04ecf4fe59ee6f88c8c8e2621/BERT_diagrams.png?auto=format%2Ccompress&dpr=1&w=552&h=414&fit=crop" width="1070" height="470">
+  </p>
 
 
 
