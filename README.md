@@ -52,9 +52,7 @@ Naive Bayes classifier is a probabilistic machine learning model that’s used f
 
 Bayes Theorem:
 
-<p align="left">
-    <img src="https://miro.medium.com/max/1200/1*39U1Ln3tSdFqsfQy6ndxOA.png" width="670" height="470">
-  </p>
+![UI](1.jpg)
 
 Using Bayes theorem, we can find the probability of A happening, given that B has occurred. Here, B is the evidence and A is the hypothesis. The assumption made here is that the predictors/features are independent. That is presence of one particular feature does not affect the other. Hence it is called naive.
 
