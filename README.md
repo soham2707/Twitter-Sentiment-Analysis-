@@ -100,6 +100,13 @@ BERT is conceptually simple and empirically powerful. It obtains new state-of-th
 
 
 
+
+
+
+
+
+
+
 <p align="left">
     <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/67/f199f04ecf4fe59ee6f88c8c8e2621/BERT_diagrams.png?auto=format%2Ccompress&dpr=1&w=552&h=414&fit=crop" width="1000" height="470">
   </p>
