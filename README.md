@@ -18,12 +18,13 @@ The dataset is based on the tweet of Indian Prime Minister Narendra Modi. By usi
 
 Approach:
 ----
-Here there are 3 type of approach.
-├── **Machine Learning** |-- SVM , Naive Bayes
+**_Here there are 3 type of approach._**
 
-├── **Deep Learning** |-- LSTM
+├── ###Machine Learning## |-- **SVM , Naive Bayes**
 
-├── **Transformer** |-- BERT ROBERTA
+├── ###Deep Learning## |-- **LSTM**
+
+├── ###Transformer### |-- **BERT ROBERTA**
 
 
 
