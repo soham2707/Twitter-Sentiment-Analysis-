@@ -70,7 +70,7 @@ All recurrent neural networks have the form of a chain of repeating modules of n
 LSTMs also have this chain like structure, but the repeating module has a different structure. Instead of having a single neural network layer, there are four, interacting in a very special way.
 
 <p align="left">
-    <img src=https://www.researchgate.net/profile/Xiaofeng-Yuan-4/publication/331421650/figure/fig2/AS:771405641695233@1560928845927/The-structure-of-the-LSTM-unit.png" width="570" height="470">
+    <img src="https://www.researchgate.net/profile/Xiaofeng-Yuan-4/publication/331421650/figure/fig2/AS:771405641695233@1560928845927/The-structure-of-the-LSTM-unit.png" width="570" height="470">
   </p>
 
 
