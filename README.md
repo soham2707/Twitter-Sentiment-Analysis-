@@ -143,7 +143,7 @@ Results
 Conclusion:
 ----
 
-Bert's result is very dependable. It seems Roberta r performence is also good ,but in case of negative tweet it's a disaster. Other side SVM Naive Bayes and LSTM is quite good fast to training.
+Bert's result is very dependable. It seems Roberta r performence is also good ,but in case of negative tweet it's a disaster. Other side SVM Naive Bayes and LSTM is quite good and fast to training.
 
 
 Blog:
